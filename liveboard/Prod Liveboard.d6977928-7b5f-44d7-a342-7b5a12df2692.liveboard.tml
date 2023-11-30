@@ -6,10 +6,6 @@ liveboard:
     viz_guid: ba8742ab-c8e1-4697-a62c-f0519e414aeb
     note_tile:
       html_parsed_string: <h1 dir="ltr"><span>v1 of that liveboard</span></h1>
-  - id: Viz_2
-    viz_guid: f18c3519-566a-4758-b896-3a03f8117c1e
-    note_tile:
-      html_parsed_string: <h1 dir="ltr"><span>v2 of this liveboard</span></h1>
   layout:
     tabs:
     - name: Tab 1
@@ -21,12 +17,4 @@ liveboard:
         height: 4
         width: 3
     - name: Tab 2
-      description: ""
-      tiles:
-      - visualization_id: Viz_2
-        x: 0
-        "y": 0
-        height: 4
-        width: 3
-    - name: Tab 3
       description: ""
