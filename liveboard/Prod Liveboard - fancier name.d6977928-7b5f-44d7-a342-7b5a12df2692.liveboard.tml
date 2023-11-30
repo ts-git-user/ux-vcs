@@ -1,6 +1,6 @@
 guid: d6977928-7b5f-44d7-a342-7b5a12df2692
 liveboard:
-  name: Prod Liveboard
+  name: Prod Liveboard - fancier name
   visualizations:
   - id: Viz_1
     viz_guid: ba8742ab-c8e1-4697-a62c-f0519e414aeb
