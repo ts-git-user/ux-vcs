@@ -1,3 +1,20 @@
 guid: d6977928-7b5f-44d7-a342-7b5a12df2692
 liveboard:
   name: Prod Liveboard
+  visualizations:
+  - id: Viz_1
+    viz_guid: ba8742ab-c8e1-4697-a62c-f0519e414aeb
+    note_tile:
+      html_parsed_string: <h1 dir="ltr"><span>v1 of that liveboard</span></h1>
+  layout:
+    tabs:
+    - name: Tab 1
+      description: ""
+      tiles:
+      - visualization_id: Viz_1
+        x: 0
+        "y": 0
+        height: 4
+        width: 3
+    - name: Tab 2
+      description: ""
